@@ -1,5 +1,3 @@
-//=================Professor Allan Michel============================
-// Aluna: Luciana Martins
 //===================================================================
 //Faca um programa que leia 2 valores inteiros e mostre na tela
 // a soma,subtracao, produto e divisao entre os dois.
