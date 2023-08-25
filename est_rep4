@@ -1,5 +1,5 @@
 //Escreva um Programa que receba a idade de uma pessoa, calcule e imprima a
-//e diga se a pessoa È maior de idade (idade >= 18 anos) ou n„o.
+//e diga se a pessoa √© maior de idade (idade >= 18 anos) ou n√£o.
 
 #include <stdio.h>
 
