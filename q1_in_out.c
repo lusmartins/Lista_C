@@ -1,7 +1,5 @@
-//=================Professor Allan Michel============================
-// Aluna: Luciana Martins
 //===================================================================
-// Faca um programa que leia nome e idade do usu·rio e depois mostre
+// Faca um programa que leia nome e idade do usu√°rio e depois mostre
 // a mensagem: "Ola, meu nome eh [nome] e tenho [idade] anos."
 //===================================================================
 
