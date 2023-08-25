@@ -1,9 +1,7 @@
-//=================Professor Allan Michel============================
-// Aluna: Luciana Martins
 //===================================================================
 //Faca um programa que rebeba 2 valores inteiros e
 // pergunte ao mesmo qual o resultado da soma. Se o usuario acertar
-//mostre na tela: PARABÉNS VC ACERTOU.
+//mostre na tela: PARABÃ‰NS VC ACERTOU.
 // E se errar, mostre: QUE PENA VC ERROU.
 //DICA:  Use \n pra quebrar linha   boa sorte ;)
 //===================================================================
