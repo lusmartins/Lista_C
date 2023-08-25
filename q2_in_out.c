@@ -1,5 +1,3 @@
-//=================Professor Allan Michel============================
-// Aluna: Luciana Martins
 //===================================================================
 // Faca um programa que leia 2 valores inteiros  mostre na tela
 // sua soma. boa sorte ;)
